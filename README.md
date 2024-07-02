@@ -1,7 +1,7 @@
 <p align="left">
 </p>
 
-<img align="right" alt="grnhs1" width="400" src="https://www.teknologg.com/wp-content/uploads/2022/04/TEMPERATURE-HUMIDITY-SENSORS.gif">
+<img align="left" alt="grnhs1" width="400" src="https://www.teknologg.com/wp-content/uploads/2022/04/TEMPERATURE-HUMIDITY-SENSORS.gif">
 <img align="left" alt="grnhs2" width="400" src="https://www.teknologg.com/wp-content/uploads/2022/04/Smart-%C4%B0rrigation.gif">
 
 <h3 align="left">Languages and Tools:</h3>
