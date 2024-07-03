@@ -1,4 +1,3 @@
-![image](https://github.com/Alleia19/Alleia19/assets/136935080/45d81dc1-a297-4f9e-b224-c7062f3c3181)<p align="left">
 </p>
 
 <p align="left"> 
