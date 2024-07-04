@@ -17,6 +17,6 @@
 <!-- <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> -->
 
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alleia19&show_icons=true&locale=en&layout=compact" alt="alleia19" /></p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alleia19&show_icons=true&locale=en&layout=compact" alt="alleia19" /></p>
 
 <!-- Comment -->
