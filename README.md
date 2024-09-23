@@ -8,6 +8,7 @@
 <a href="https://www.ni.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Multisim_logo.jpg" alt="multisim" width="40" height="40"/> </a>
 <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-drawio-icon-2048x2048-dxjfklgq.png" alt="drawio" width="40" height="40"/> </a>
 <a href="https://www.tinkercad.com/" target="_blank" rel="noreferrer"> <img src="https://www.commonsense.org/sites/default/files/styles/ratio_1_1_large/public/png/2022-08/tinkercad-0.png?itok=vgppJgO4" alt="tinkercad" width="40" height="40"/> </a>
+<a href="https://www.visual-paradigm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-images.visual-paradigm.com/home/15.0/vp_logo_header.png" alt="visual" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
   
